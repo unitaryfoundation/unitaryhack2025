@@ -1,4 +1,4 @@
-# unitaryHACK 2025 incoming ☄️!
+# unitaryHACK 2025 (archive) ☄️!
 
 unitaryHACK is back, and coming to a computer near you **May 28&ndash;Jun 11 2025**.
 This year we'll celebrate the 5th edition of the hackathon, and we're excited to bring you the best edition yet.
